@@ -50,9 +50,6 @@ This is a simple project stores and manipulates a list of students records. Stud
 
 ### [Micromouse Project](https://github.com/amrkhaled104/MICRO_MOUSE)
 
-### [Micromouse Project](https://github.com/amrkhaled104/MICRO_MOUSE)
-
-
 ### [Embedded_Cat](https://github.com/amrkhaled104/Embedded_Cat)
 This repository is dedicated to documenting my learning journey in embedded systems, covering C programming, solving tasks, data structures, algorithms, and writing AVR drivers. It includes examples and exercises that showcase my progress in mastering embedded development.
 
