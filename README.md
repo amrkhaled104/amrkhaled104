@@ -37,8 +37,14 @@
 * Data Structures 
 * Basic knowledge with Linux.
 * problem solving
-
+*Embedded Interfacing with different microcontrollers ([Atmega32](https://github.com/amrkhaled104/Embedded_Cat/tree/main/Avr)
 ## Projects
+### [Transaction Management System](https://github.com/amrkhaled104/Payment-Application)
+
+### [Micromouse Project](https://github.com/amrkhaled104/MICRO_MOUSE)
+
+### [Embedded_Cat](https://github.com/amrkhaled104/Embedded_Cat)
+This repository is dedicated to documenting my learning journey in embedded systems, covering C programming, solving tasks, data structures, algorithms, and writing AVR drivers. It includes examples and exercises that showcase my progress in mastering embedded development.
 
 ### [Student Management System](https://github.com/amrkhaled104/Student-Record-System-)
 Developed in C using a linked list data structure, this project efficiently manages student data, allowing manual and file-based data entry, searching, updating, and deleting. It accommodates an infinite number of students depending on the memory massage using a set of structures and the global index
@@ -46,12 +52,6 @@ Developed in C using a linked list data structure, this project efficiently mana
 ### [Student Record System](https://github.com/amrkhaled104/Project-C)
 This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
 
-### [Transaction Management System](https://github.com/amrkhaled104/Payment-Application)
-
-### [Micromouse Project](https://github.com/amrkhaled104/MICRO_MOUSE)
-
-### [Embedded_Cat](https://github.com/amrkhaled104/Embedded_Cat)
-This repository is dedicated to documenting my learning journey in embedded systems, covering C programming, solving tasks, data structures, algorithms, and writing AVR drivers. It includes examples and exercises that showcase my progress in mastering embedded development.
 
 
 <h4 align="center">Languages and Tools:</h4>
