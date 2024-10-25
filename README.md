@@ -37,7 +37,7 @@
 * Data Structures 
 * Basic knowledge with Linux.
 * problem solving
-*Embedded Interfacing with different microcontrollers ([Atmega32])(https://github.com/amrkhaled104/Embedded_Cat/tree/main/Avr/ATMEGA32_DRIVERS/DIO)
+*Embedded Interfacing with different microcontrollers ([Atmega32](https://github.com/amrkhaled104/Embedded_Cat/tree/main/Avr/ATMEGA32_DRIVERS/DIO))
 ## Projects
 ### [Transaction Management System](https://github.com/amrkhaled104/Payment-Application)
 
