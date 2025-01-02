@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">About Me</h3>
 <p align="center">
-  I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
+Hi, I’m Amr Khaled, a dedicated student at Mansoura University specializing in Computer Engineering with a strong passion for Software Engineering and Competitive Programming.
 </p>
 
   <p align="center">
