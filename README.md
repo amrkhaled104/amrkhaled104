@@ -10,7 +10,7 @@ Hi, I’m Amr Khaled, a dedicated student at Mansoura University specializing in
   <span>My CV can be found below:</span>
 </p>
   <p align="center">
-<a href="https://www.linkedin.com/in/amr-khaled-419260304" target="_blank">
+<a href="https://drive.google.com/drive/folders/168Qyu5-vgspLaDUXr8cOMiH5oD6bx1Q1" target="_blank">
     <img src="https://as2.ftcdn.net/v2/jpg/00/99/38/75/1000_F_99387513_nXXJsxWvAPgh9qrvM57wEyyzqbAkgClJ.jpg" alt="Email" height="50" width="50" />
   </a>
 </p>
@@ -33,8 +33,9 @@ Hi, I’m Amr Khaled, a dedicated student at Mansoura University specializing in
 </p>
 
 ## Technical Skills
-* Strong Knowledge C / Embedded C
-* Data Structures 
+* Strong Knowledge C/C++,C# 
+* Data Structures
+* OOP
 * Basic knowledge with Linux.
 * problem solving
 * Embedded Interfacing with different microcontrollers ([Atmega32](https://github.com/amrkhaled104/Embedded_Cat/tree/main/Avr/ATMEGA32_DRIVERS/DIO))
@@ -52,6 +53,8 @@ Developed in C using a linked list data structure, this project efficiently mana
 ### [Student Record System](https://github.com/amrkhaled104/Project-C)
 This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
 
+### [ Examination System ](https://github.com/amrkhaled104/Examination_System-)
+A simple examination system built in C# that supports Multiple-Choice Questions (MCQ) and True/False (TF) Questions. The system allows users to take an exam, validate their answers, and receive a final score with explanations for incorrect answers
 
 
 <h4 align="center">Languages and Tools:</h4>
