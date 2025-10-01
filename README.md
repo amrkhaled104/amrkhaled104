@@ -1,70 +1,29 @@
-<p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Welcome" />
-</p>
-<h3 align="center">About Me</h3>
-<p align="center">
-Hi, I’m Amr Khaled, a dedicated student at Mansoura University specializing in Computer Engineering with a strong passion for Software Engineering and Competitive Programming.
-</p>
+<h1 align="center">Hi 👋, I'm Amr Khaled</h1>
+<h3 align="center">Front-End Developer | Computer Engineering Student</h3>
 
-  <p align="center">
-  <span>My CV can be found below:</span>
-</p>
-  <p align="center">
-<a href="https://drive.google.com/drive/folders/168Qyu5-vgspLaDUXr8cOMiH5oD6bx1Q1" target="_blank">
-    <img src="https://as2.ftcdn.net/v2/jpg/00/99/38/75/1000_F_99387513_nXXJsxWvAPgh9qrvM57wEyyzqbAkgClJ.jpg" alt="Email" height="50" width="50" />
-  </a>
-</p>
+---
 
-<p align="center">
-  Connect with me on:
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amr-khaled-419260304" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:amrkhaledelsisy@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
-  </a>
+- 🎓 **Education**: Mansoura University, Computer & Control Systems Engineering  
+- 📊 **Academic Score**: 94% | **Graduation**: 2027  
+- 🌱 I’m currently learning **Front-End Development & Software Engineering**  
+- 💬 Ask me about **C, C++, C#, React, Problem Solving**  
+- 📧 Reach me at **amrkhaledelsisy@gmail.com**  
+- 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/amr-khaled-419260304)  
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </p>
 
-<h3 align="center">Education</h3>
-<p align="center">
-  - Faculty of Engineering, Computer & Control System Department, Mansoura University
-</p>
-
-## Technical Skills
-* Strong Knowledge C/C++,C# 
-* Data Structures
-* OOP
-* Basic knowledge with Linux.
-* problem solving
-* Embedded Interfacing with different microcontrollers ([Atmega32](https://github.com/amrkhaled104/Embedded_Cat/tree/main/Avr/ATMEGA32_DRIVERS/DIO))
-## Projects
-### [Transaction Management System](https://github.com/amrkhaled104/Payment-Application)
-
-### [Micromouse Project](https://github.com/amrkhaled104/MICRO_MOUSE)
-
-### [Embedded_Cat](https://github.com/amrkhaled104/Embedded_Cat)
-This repository is dedicated to documenting my learning journey in embedded systems, covering C programming, solving tasks, data structures, algorithms, and writing AVR drivers. It includes examples and exercises that showcase my progress in mastering embedded development.
-
-### [Student Management System](https://github.com/amrkhaled104/Student-Record-System-)
-Developed in C using a linked list data structure, this project efficiently manages student data, allowing manual and file-based data entry, searching, updating, and deleting. It accommodates an infinite number of students depending on the memory massage using a set of structures and the global index
-
-### [Student Record System](https://github.com/amrkhaled104/Project-C)
-This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
-
-### [ Examination System ](https://github.com/amrkhaled104/Examination_System-)
-A simple examination system built in C# that supports Multiple-Choice Questions (MCQ) and True/False (TF) Questions. The system allows users to take an exam, validate their answers, and receive a final score with explanations for incorrect answers
-
-
-<h4 align="center">Languages and Tools:</h4>
-<p align="center">
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code>
-  <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-</p>
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrkhaled104&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -77,13 +36,3 @@ A simple examination system built in C# that supports Multiple-Choice Questions 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrkhaled104" alt="GitHub Streak" />
 </p>
-
-<div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br />
-</div>
-
-<h5 align="center">Profile Views</h5>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iiٌamr/count.svg" alt="Visitor Count" />
-</div>
