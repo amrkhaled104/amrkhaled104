@@ -6,7 +6,7 @@
 - 🎓 **Education**: Mansoura University, Computer & Control Systems Engineering  
 - 📊 **Academic Score**: 94% | **Graduation**: 2027  
 - 🌱 I’m currently learning **Front-End Development & Software Engineering**  
-- 💬 Ask me about **C, C++, C#, React, Problem Solving**  
+- 💬 Ask me about **C, C++, C#,JS, React, Problem Solving**  
 - 📧 Reach me at **amrkhaledelsisy@gmail.com**  
 - 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/amr-khaled-419260304)  
 
