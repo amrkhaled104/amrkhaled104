@@ -3,10 +3,8 @@
 
 ---
 
-- 🎓 **Education**: Mansoura University, Computer & Control Systems Engineering  
-- 📊 **Academic Score**: 94% | **Graduation**: 2027  
-- 🌱 I’m currently learning **Front-End Development & Software Engineering**  
-- 💬 Ask me about **C, C++, C#,JS, React, Problem Solving**  
+-  **Education**: Mansoura University, Computer & Control Systems Engineering  
+-  I’m currently learning **Front-End Development & Software Engineering**  
 - 📧 Reach me at **amrkhaledelsisy@gmail.com**  
 - 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/amr-khaled-419260304)  
 
@@ -27,8 +25,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrkhaled104&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrkhaled104&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
