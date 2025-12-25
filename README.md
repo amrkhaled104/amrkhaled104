@@ -13,18 +13,16 @@
 ---
 
 ### 🎓 About Me
-- 🏫 **University**: Computer & Control Systems Engineering, Mansoura University.
-- 🚀 **Focus**: High-performance Front-End Applications & Clean Architecture.
-- 🌱 **Learning**: Advanced JavaScript patterns, UI/UX Principles, and Testing.
-- 📧 **Reach out**: [amrkhaledelsisy@gmail.com](mailto:amrkhaledelsisy@gmail.com)
+I am a **Computer & Control Systems Engineering** student at **Mansoura University** and a dedicated **Frontend Developer**. I specialize in creating interactive, user-friendly web applications using **React, JavaScript/TypeScript, Tailwind CSS, and Bootstrap**, with a strong focus on **UI/UX principles**. Currently, I am exploring the latest trends in frontend development while expanding my skills into **Backend Development** to become a well-rounded Software Engineer. I am always open to exciting opportunities and ready to contribute to innovative projects.
 
 ---
 
 ### 🛠 Tech Stack
 
 #### 🚀 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -42,17 +40,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrkhaled104&show_icons=true&theme=radical" alt="Amr's Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrkhaled104&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
-<p align="right">(<a href="#top">Back to top</a>)</p>
