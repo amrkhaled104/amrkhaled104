@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">Computer Engineering Student @ Mansoura University | Front-End Developer</h3>
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=amrkhaled104&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
@@ -9,13 +9,6 @@
   <a href="https://www.linkedin.com/in/amr-khaled-419260304" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Amr Khaled" /></a>
   <a href="mailto:amrkhaledelsisy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amrkhaledelsisy@gmail.com" /></a>
 </p>
-
----
-
-### 🎓 About Me
-I am a **Computer & Control Systems Engineering** student at **Mansoura University** and a dedicated **Frontend Developer**. I specialize in creating interactive, user-friendly web applications using **React, JavaScript/TypeScript, Tailwind CSS, and Bootstrap**, with a strong focus on **UI/UX principles**. Currently, I am exploring the latest trends in frontend development while expanding my skills into **Backend Development** to become a well-rounded Software Engineer. I am always open to exciting opportunities and ready to contribute to innovative projects.
-
----
 
 ### 🛠 Tech Stack
 
