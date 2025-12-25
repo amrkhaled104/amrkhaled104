@@ -1,28 +1,58 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
-<h3 align="center">Front-End Developer | Computer Engineering Student</h3>
-
----
-
--  **Education**: Mansoura University, Computer & Control Systems Engineering  
--  I’m currently learning **Front-End Development & Software Engineering**  
-- 📧 Reach me at **amrkhaledelsisy@gmail.com**  
-- 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/amr-khaled-419260304)  
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</p>
-
----
+<h3 align="center">Computer Engineering Student @ Mansoura University | Front-End Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrkhaled104&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=amrkhaled104&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-khaled-419260304" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Amr Khaled" /></a>
+  <a href="mailto:amrkhaledelsisy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amrkhaledelsisy@gmail.com" /></a>
+</p>
+
+---
+
+### 🎓 About Me
+- 🏫 **University**: Computer & Control Systems Engineering, Mansoura University.
+- 🚀 **Focus**: High-performance Front-End Applications & Clean Architecture.
+- 🌱 **Learning**: Advanced JavaScript patterns, UI/UX Principles, and Testing.
+- 📧 **Reach out**: [amrkhaledelsisy@gmail.com](mailto:amrkhaledelsisy@gmail.com)
+
+---
+
+### 🛠 Tech Stack
+
+#### 🚀 Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### 🏗 Frameworks & Styling
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🧰 Development Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrkhaled104&show_icons=true&theme=radical" alt="Amr's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrkhaled104&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
