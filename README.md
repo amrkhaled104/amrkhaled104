@@ -44,10 +44,6 @@
 
 ---
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=amrkhaled104&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
