@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Student @ Mansoura University | Front-End Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amr-khaled-419260304" target="blank">
+  <a href="https://www.linkedin.com/in/%D9%90amr-khaled/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Amr Khaled" />
   </a>
   <a href="mailto:amrkhaledelsisy@gmail.com" target="blank">
